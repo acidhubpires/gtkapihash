@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload de Arquivo - Geoprocessamento</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Upload de Arquivo</h1>
+        <p class="text-center">Selecione um arquivo KMZ, GeoJSON ou SHP para gerar as nomenclaturas correspondentes.</p>
+
+        <form id="uploadForm" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="file">Escolha o arquivo:</label>
+                <input type="file" id="file" name="file" class="form-control" required>
+            </div>
+            <button type="button" class="btn btn-primary" onclick="uploadFile()">Enviar</button>
+        </form>
+
+        <div id="resultado" class="mt-5"></div>
+    </div>
+
+    <script>
+        function uploadFile() {
+            var fileInput = document.getElementById("file");
+            var formData = new FormData();
+            formData.append("file", fileInput.files[0]);
+
+            fetch('/upload', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.nomenclaturas) {
+                    document.getElementById('resultado').innerHTML = '<h4>Nomenclaturas Geradas:</h4>' + data.nomenclaturas.join('<br>');
+                } else if (data.error) {
+                    document.getElementById('resultado').innerHTML = 'Erro no processamento: ' + data.error;
+                }
+            })
+            .catch(error => {
+                document.getElementById('resultado').innerHTML = 'Erro no upload: ' + error;
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,6879 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2359187,
+          -25.4387185
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Boa Mesa",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.23577,
+          -25.4389085
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Millons",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2367633,
+          -25.4392757
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Dom Camilo",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2342208,
+          -25.4399092
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Mister Toko",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2653985,
+          -25.4277415
+        ]
+      },
+      "properties": {
+        "name": "Baba Salim",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.250243,
+          -25.4298191
+        ]
+      },
+      "properties": {
+        "name": "Friends Gastroclub",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2644835,
+          -25.4278258
+        ]
+      },
+      "properties": {
+        "name": "Mafalda Café Bistrô",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2659595,
+          -25.4383482
+        ]
+      },
+      "properties": {
+        "name": "Estacionamento Estacao",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2637519,
+          -25.4295294
+        ]
+      },
+      "properties": {
+        "name": "Estacionamento Guaíra",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2661197,
+          -25.4301656
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2495458,
+          -25.4228128
+        ]
+      },
+      "properties": {
+        "name": "Cantina do Délio - Itupava",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2729577,
+          -25.4240161
+        ]
+      },
+      "properties": {
+        "name": "Corleone Craft Burgers",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2700529,
+          -25.4297129
+        ]
+      },
+      "properties": {
+        "name": "Café do Paço",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2709183,
+          -25.4235953
+        ]
+      },
+      "properties": {
+        "name": "Shopping Mueller",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2506839,
+          -25.438072
+        ]
+      },
+      "properties": {
+        "name": "Kharina",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2503096,
+          -25.4385799
+        ]
+      },
+      "properties": {
+        "name": "Apple Jack - Restaurante",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2509722,
+          -25.4388149
+        ]
+      },
+      "properties": {
+        "name": "Cantina da Mamma",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2582692,
+          -25.4494896
+        ]
+      },
+      "properties": {
+        "name": "Churrascaria Paiol",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.256894,
+          -25.4353476
+        ]
+      },
+      "properties": {
+        "name": "Al Almasor",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2570552,
+          -25.4343221
+        ]
+      },
+      "properties": {
+        "name": "Anarco - Mercado Municipal",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2431977,
+          -25.4517424
+        ]
+      },
+      "properties": {
+        "name": "Paraná Grill",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2686288,
+          -25.4301175
+        ]
+      },
+      "properties": {
+        "name": "Green Land",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2527189,
+          -25.4094749
+        ]
+      },
+      "properties": {
+        "name": "Originale",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2718363,
+          -25.4266523
+        ]
+      },
+      "properties": {
+        "name": "Semente de Girassol",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2534847,
+          -25.4337808
+        ]
+      },
+      "properties": {
+        "name": "Cozinha Girassol",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2382375,
+          -25.4355993
+        ]
+      },
+      "properties": {
+        "name": "Bruno's Lava car e Estacionamento",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2442823,
+          -25.4350744
+        ]
+      },
+      "properties": {
+        "name": "Pizzaria Dom Martiello",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2576515,
+          -25.4177177
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2476773,
+          -25.4357504
+        ]
+      },
+      "properties": {
+        "name": "Estacionamento do Hospital Marcelino Champagnat",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2473874,
+          -25.4258678
+        ]
+      },
+      "properties": {
+        "name": "Akai Sushi Bar",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2681938,
+          -25.4419784
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Fonk",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2530348,
+          -25.4519834
+        ]
+      },
+      "properties": {
+        "name": "Solero",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2707658,
+          -25.4210297
+        ]
+      },
+      "properties": {
+        "name": "Igreja Evangélica Assembleia de Deus",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2694245,
+          -25.4198852
+        ]
+      },
+      "properties": {
+        "name": "Dom Milton",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2675193,
+          -25.4199372
+        ]
+      },
+      "properties": {
+        "name": "Oliva Buffet",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2688481,
+          -25.4201026
+        ]
+      },
+      "properties": {
+        "name": "Estapar",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2681472,
+          -25.4218787
+        ]
+      },
+      "properties": {
+        "name": "Estapar",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.268175,
+          -25.4205723
+        ]
+      },
+      "properties": {
+        "name": "Estapar",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2690102,
+          -25.4183743
+        ]
+      },
+      "properties": {
+        "name": "Dona Evani",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2711342,
+          -25.4233383
+        ]
+      },
+      "properties": {
+        "name": "Divino Prato",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2711355,
+          -25.4234762
+        ]
+      },
+      "properties": {
+        "name": "Aroma Brasil",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2711422,
+          -25.4235044
+        ]
+      },
+      "properties": {
+        "name": "Cantinho do Quilo",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2678702,
+          -25.4188345
+        ]
+      },
+      "properties": {
+        "name": "Araupark",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2681107,
+          -25.4187052
+        ]
+      },
+      "properties": {
+        "name": "Buffet Madrid",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2694829,
+          -25.420155
+        ]
+      },
+      "properties": {
+        "name": "Ambe The Indian House",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2688658,
+          -25.4179805
+        ]
+      },
+      "properties": {
+        "name": "Kurytyba Gastronomia",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2645275,
+          -25.4276006
+        ]
+      },
+      "properties": {
+        "name": "Café do Teatro",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2711506,
+          -25.4310428
+        ]
+      },
+      "properties": {
+        "name": "Café Senadinho",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2701125,
+          -25.4281006
+        ]
+      },
+      "properties": {
+        "name": "Jokers Pub Café",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2375322,
+          -25.4271301
+        ]
+      },
+      "properties": {
+        "name": "Churascaria Recanto Gaúcho",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2545636,
+          -25.420892
+        ]
+      },
+      "properties": {
+        "name": "Jacobina Bar",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2542061,
+          -25.4206628
+        ]
+      },
+      "properties": {
+        "name": "Al Beirut",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2675699,
+          -25.4201299
+        ]
+      },
+      "properties": {
+        "name": "Oliva Café",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2494053,
+          -25.4178079
+        ]
+      },
+      "properties": {
+        "name": "Cantinho Árabe",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2676143,
+          -25.4212104
+        ]
+      },
+      "properties": {
+        "name": "Yutaka",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.267291,
+          -25.428463
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2670312,
+          -25.4283422
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2656705,
+          -25.4278123
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2624273,
+          -25.4393173
+        ]
+      },
+      "properties": {
+        "name": "Costelão Iguaçu",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2690908,
+          -25.4284813
+        ]
+      },
+      "properties": {
+        "name": "Brooklyn Eats & Drinks",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2692374,
+          -25.4282447
+        ]
+      },
+      "properties": {
+        "name": "Canto do Caita",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2613568,
+          -25.4288055
+        ]
+      },
+      "properties": {
+        "name": "Casa Belotti",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2384985,
+          -25.4359062
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2724893,
+          -25.4361108
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2726973,
+          -25.432871
+        ]
+      },
+      "properties": {
+        "name": "La Casa di Frango",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2725571,
+          -25.4290164
+        ]
+      },
+      "properties": {
+        "name": "Armazém Califórnia",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2444825,
+          -25.42397
+        ]
+      },
+      "properties": {
+        "name": "La Linda Restaurante",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.26289,
+          -25.4261891
+        ]
+      },
+      "properties": {
+        "name": "Pizza Clock e Restaurante",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2740954,
+          -25.4308929
+        ]
+      },
+      "properties": {
+        "name": "Pastelaria Bom Dia",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2574343,
+          -25.4339499
+        ]
+      },
+      "properties": {
+        "name": "Jô Buffet e Restaurante",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2399578,
+          -25.418926
+        ]
+      },
+      "properties": {
+        "name": "Dona Ambrosina",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2414664,
+          -25.4193893
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.266247,
+          -25.4194412
+        ]
+      },
+      "properties": {
+        "name": "Estacionamento do Delta",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2665846,
+          -25.4194016
+        ]
+      },
+      "properties": {
+        "name": "Estacionamento Estacio",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2725537,
+          -25.4327733
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2362844,
+          -25.4354141
+        ]
+      },
+      "properties": {
+        "name": "Bali Pizzaria",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.239227,
+          -25.4351545
+        ]
+      },
+      "properties": {
+        "name": "Cordélia",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2616732,
+          -25.4265836
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2623339,
+          -25.4273976
+        ]
+      },
+      "properties": {
+        "name": "Siciliana",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2619667,
+          -25.4275478
+        ]
+      },
+      "properties": {
+        "name": "Bistrô Passeio",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2618963,
+          -25.4275208
+        ]
+      },
+      "properties": {
+        "name": "Du Chef",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.260975,
+          -25.4273317
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2632367,
+          -25.4270362
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2728121,
+          -25.4274559
+        ]
+      },
+      "properties": {
+        "name": "A Caiçara",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2679169,
+          -25.4208193
+        ]
+      },
+      "properties": {
+        "name": "Suíssa Grill",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2619248,
+          -25.4262136
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Universitário Central",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2692976,
+          -25.4367009
+        ]
+      },
+      "properties": {
+        "name": "Floriano",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2692493,
+          -25.4368172
+        ]
+      },
+      "properties": {
+        "name": "Maneki Lamen",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2727683,
+          -25.4275266
+        ]
+      },
+      "properties": {
+        "name": "Espaço Carmela",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2349157,
+          -25.4372821
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Cristo Rei",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2705203,
+          -25.4253372
+        ]
+      },
+      "properties": {
+        "name": "Romanu's Café",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2710714,
+          -25.4231751
+        ]
+      },
+      "properties": {
+        "name": "Estacionamento Shopping Mueller",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2711977,
+          -25.4237559
+        ]
+      },
+      "properties": {
+        "name": "Estacionamento Stop",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.271123,
+          -25.4233019
+        ]
+      },
+      "properties": {
+        "name": "Mineira Gostosa",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2718122,
+          -25.4238509
+        ]
+      },
+      "properties": {
+        "name": "Café Boulevard",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2723886,
+          -25.4225885
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2703569,
+          -25.4246421
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2704264,
+          -25.4249907
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2708407,
+          -25.4256687
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2722535,
+          -25.4351254
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Popular",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2380888,
+          -25.4273045
+        ]
+      },
+      "properties": {
+        "name": "Frens",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2664061,
+          -25.4292569
+        ]
+      },
+      "properties": {
+        "name": "Café Express",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2679273,
+          -25.436799
+        ]
+      },
+      "properties": {
+        "name": "Petit Pavê",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2646311,
+          -25.4394267
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2626484,
+          -25.4180572
+        ]
+      },
+      "properties": {
+        "name": "Mad Jack Beer Lab",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2632046,
+          -25.4177955
+        ]
+      },
+      "properties": {
+        "name": "Zimbro",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2586136,
+          -25.4175615
+        ]
+      },
+      "properties": {
+        "name": "Digby Wine & Food",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2581884,
+          -25.4178526
+        ]
+      },
+      "properties": {
+        "name": "Garbanzo",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2637931,
+          -25.4159617
+        ]
+      },
+      "properties": {
+        "name": "Sutan Grill",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2646701,
+          -25.41651
+        ]
+      },
+      "properties": {
+        "name": "Brazil Picante",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2476955,
+          -25.432
+        ]
+      },
+      "properties": {
+        "name": "Sabores do Brasuca",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2456032,
+          -25.4302928
+        ]
+      },
+      "properties": {
+        "name": "Casa do Homem Pizza",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2524792,
+          -25.4336192
+        ]
+      },
+      "properties": {
+        "name": "Ofusion",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2516937,
+          -25.4354205
+        ]
+      },
+      "properties": {
+        "name": "Sushi Vegano",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2386168,
+          -25.4379645
+        ]
+      },
+      "properties": {
+        "name": "Tio Mauro",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2435092,
+          -25.4306794
+        ]
+      },
+      "properties": {
+        "name": "Easy Cheff",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.246151,
+          -25.4229046
+        ]
+      },
+      "properties": {
+        "name": "CanaBenta",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2492052,
+          -25.4226512
+        ]
+      },
+      "properties": {
+        "name": "Dedo de Moça",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.245506,
+          -25.4172134
+        ]
+      },
+      "properties": {
+        "name": "Chocolate com Banana Pizzaria e Caranguejaria",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2435553,
+          -25.419205
+        ]
+      },
+      "properties": {
+        "name": "Rib's Costela no Rolete",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2491384,
+          -25.417829
+        ]
+      },
+      "properties": {
+        "name": "Sem Culpa",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2463005,
+          -25.4176894
+        ]
+      },
+      "properties": {
+        "name": "Le Liban",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2561697,
+          -25.4157897
+        ]
+      },
+      "properties": {
+        "name": "Mukeka",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2568602,
+          -25.4135316
+        ]
+      },
+      "properties": {
+        "name": "Vindouro",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.257842,
+          -25.4147088
+        ]
+      },
+      "properties": {
+        "name": "Baggio - Juvevê",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.256178,
+          -25.4162274
+        ]
+      },
+      "properties": {
+        "name": "Luponero",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2578127,
+          -25.4153934
+        ]
+      },
+      "properties": {
+        "name": "Blackbird",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2571188,
+          -25.4155457
+        ]
+      },
+      "properties": {
+        "name": "Italy Caffé Juvevê",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2576647,
+          -25.4151449
+        ]
+      },
+      "properties": {
+        "name": "Tierra del Fuego",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2579433,
+          -25.4151176
+        ]
+      },
+      "properties": {
+        "name": "Pantucci Trattoria",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.258349,
+          -25.4146126
+        ]
+      },
+      "properties": {
+        "name": "Mangiare Felice - Juvevê",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2582001,
+          -25.4349081
+        ]
+      },
+      "properties": {
+        "name": "Chimarrão",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2574065,
+          -25.4350702
+        ]
+      },
+      "properties": {
+        "name": "Boteco Municipal",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2500278,
+          -25.4265556
+        ]
+      },
+      "properties": {
+        "name": "La Vaca Steakhouse",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2559535,
+          -25.424162
+        ]
+      },
+      "properties": {
+        "name": "Masc Beer",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2567443,
+          -25.4305194
+        ]
+      },
+      "properties": {
+        "name": "Di Napoli",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.255332,
+          -25.4306332
+        ]
+      },
+      "properties": {
+        "name": "Rapidità",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2518022,
+          -25.4242239
+        ]
+      },
+      "properties": {
+        "name": "Filé de Igreja",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2454081,
+          -25.4282158
+        ]
+      },
+      "properties": {
+        "name": "Império da Pizza",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.253129,
+          -25.4298703
+        ]
+      },
+      "properties": {
+        "name": "Máfia da Pizza",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2554969,
+          -25.4264946
+        ]
+      },
+      "properties": {
+        "name": "Dona Helena",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2513804,
+          -25.4240467
+        ]
+      },
+      "properties": {
+        "name": "Marie Vin e Bistrot",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2711076,
+          -25.4244447
+        ]
+      },
+      "properties": {
+        "name": "Bar Nacional",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2379387,
+          -25.432576
+        ]
+      },
+      "properties": {
+        "name": "Costelão Fontana",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2374369,
+          -25.4329491
+        ]
+      },
+      "properties": {
+        "name": "Do Peruano",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2651086,
+          -25.4445626
+        ]
+      },
+      "properties": {
+        "name": "Tork 'n' Roll",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.256348,
+          -25.4466184
+        ]
+      },
+      "properties": {
+        "name": "Toca do Caranguejo",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2677647,
+          -25.4345875
+        ]
+      },
+      "properties": {
+        "name": "Bar Palácio",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2675884,
+          -25.4339942
+        ]
+      },
+      "properties": {
+        "name": "Palco dos 5 Sentidos",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2639862,
+          -25.4296063
+        ]
+      },
+      "properties": {
+        "name": "Kolonialle",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2697708,
+          -25.4281897
+        ]
+      },
+      "properties": {
+        "name": "Nonna Giovanna",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2699906,
+          -25.4281333
+        ]
+      },
+      "properties": {
+        "name": "Restaurante São Francisco",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2715572,
+          -25.433229
+        ]
+      },
+      "properties": {
+        "name": "Imperial",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2567553,
+          -25.4307537
+        ]
+      },
+      "properties": {
+        "name": "Straveganzza",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.26661,
+          -25.4306744
+        ]
+      },
+      "properties": {
+        "name": "Verão Natural",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2661976,
+          -25.4304618
+        ]
+      },
+      "properties": {
+        "name": "Buffet Caseiro",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2654821,
+          -25.4336804
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Escola Senac",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2608941,
+          -25.4300527
+        ]
+      },
+      "properties": {
+        "name": "Bello Café",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2612454,
+          -25.4294302
+        ]
+      },
+      "properties": {
+        "name": "Estrela",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2546083,
+          -25.4354311
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Popular Capanema",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2578995,
+          -25.4354585
+        ]
+      },
+      "properties": {
+        "name": "Seu Garçom",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2593738,
+          -25.4354863
+        ]
+      },
+      "properties": {
+        "name": "Velha Amizade",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2531886,
+          -25.4304416
+        ]
+      },
+      "properties": {
+        "name": "Manassés",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2534535,
+          -25.4305668
+        ]
+      },
+      "properties": {
+        "name": "Don Martini",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2673884,
+          -25.4442342
+        ]
+      },
+      "properties": {
+        "name": "Brasileirinho",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2468686,
+          -25.4230402
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2474614,
+          -25.4226721
+        ]
+      },
+      "properties": {
+        "name": "Brazco",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2474386,
+          -25.4226297
+        ]
+      },
+      "properties": {
+        "name": "Khob Khun",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2474172,
+          -25.4225934
+        ]
+      },
+      "properties": {
+        "name": "Hike",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.247338,
+          -25.4223984
+        ]
+      },
+      "properties": {
+        "name": "Johnny",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2475338,
+          -25.4227036
+        ]
+      },
+      "properties": {
+        "name": "Barbarium",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2475902,
+          -25.4245495
+        ]
+      },
+      "properties": {
+        "name": "Aroma Mineiro",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2475955,
+          -25.4246343
+        ]
+      },
+      "properties": {
+        "name": "Al Baraki",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.24768,
+          -25.4245374
+        ]
+      },
+      "properties": {
+        "name": "China Food",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2476116,
+          -25.4247954
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2523385,
+          -25.4350268
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2572352,
+          -25.4346431
+        ]
+      },
+      "properties": {
+        "name": "Takê",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2569348,
+          -25.4345341
+        ]
+      },
+      "properties": {
+        "name": "Mister Dea",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2573742,
+          -25.4343312
+        ]
+      },
+      "properties": {
+        "name": "Fuji",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2534882,
+          -25.428464
+        ]
+      },
+      "properties": {
+        "name": "Imperial da China",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.272364,
+          -25.438608
+        ]
+      },
+      "properties": {
+        "name": "Valentina",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2656624,
+          -25.4376824
+        ]
+      },
+      "properties": {
+        "name": "Bier Hoff",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2692681,
+          -25.438405
+        ]
+      },
+      "properties": {
+        "name": "Grill Irmãos",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2701519,
+          -25.43424
+        ]
+      },
+      "properties": {
+        "name": "Hangar Vip",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2680705,
+          -25.431028
+        ]
+      },
+      "properties": {
+        "name": "Safe Parcking",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2667856,
+          -25.4297781
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Hong Kong",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2688923,
+          -25.4404066
+        ]
+      },
+      "properties": {
+        "name": "Manifesto",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2704493,
+          -25.4424806
+        ]
+      },
+      "properties": {
+        "name": "Down Town Pub &Garden",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2534879,
+          -25.4338514
+        ]
+      },
+      "properties": {
+        "name": "Sal Grosso Assados",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2534852,
+          -25.4338168
+        ]
+      },
+      "properties": {
+        "name": "Skarillang",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.238531,
+          -25.4468547
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2637939,
+          -25.4357773
+        ]
+      },
+      "properties": {
+        "name": "Don Martini",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2586414,
+          -25.4124798
+        ]
+      },
+      "properties": {
+        "name": "Santigusta - Juvevê",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2548067,
+          -25.4155806
+        ]
+      },
+      "properties": {
+        "name": "Paraguassu",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2663352,
+          -25.4281054
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2564637,
+          -25.4226205
+        ]
+      },
+      "properties": {
+        "name": "Solsken",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2691419,
+          -25.4324776
+        ]
+      },
+      "properties": {
+        "name": "Don Siciliano",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2717607,
+          -25.4323397
+        ]
+      },
+      "properties": {
+        "name": "Osteria Grill",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2677666,
+          -25.4317599
+        ]
+      },
+      "properties": {
+        "name": "Globo",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2533073,
+          -25.4361714
+        ]
+      },
+      "properties": {
+        "name": "Mesa Solidária Capanema",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.271205,
+          -25.4281559
+        ]
+      },
+      "properties": {
+        "name": "Mesa Solidária",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2657902,
+          -25.4302939
+        ]
+      },
+      "properties": {
+        "name": "Lovinha - Plant-Based Pizza",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.269191,
+          -25.429599
+        ]
+      },
+      "properties": {
+        "name": "Buffet livre",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2679389,
+          -25.4325464
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2681041,
+          -25.4322337
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.267726,
+          -25.431763
+        ]
+      },
+      "properties": {
+        "name": "Globo",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.266664,
+          -25.431565
+        ]
+      },
+      "properties": {
+        "name": "Buffet chinês",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2691326,
+          -25.4324887
+        ]
+      },
+      "properties": {
+        "name": "Don Siciliano",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2468726,
+          -25.4176489
+        ]
+      },
+      "properties": {
+        "name": "Café do Canto",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2724769,
+          -25.4249002
+        ]
+      },
+      "properties": {
+        "name": "Espaço da Zé 2",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2460013,
+          -25.4529177
+        ]
+      },
+      "properties": {
+        "name": "Dona Flor",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2703161,
+          -25.4307776
+        ]
+      },
+      "properties": {
+        "name": "Confeitaria das Famílias",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2629354,
+          -25.4278911
+        ]
+      },
+      "properties": {
+        "name": "Leach Bar e Restaurante",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2672578,
+          -25.4381385
+        ]
+      },
+      "properties": {
+        "name": "Starbucks Coffee",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2522673,
+          -25.4531131
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.245541,
+          -25.4172146
+        ]
+      },
+      "properties": {
+        "name": "Chocolate com Banana Caranguejo",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2632478,
+          -25.4156648
+        ]
+      },
+      "properties": {
+        "name": "Cantina dos Açores",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2610348,
+          -25.4342696
+        ]
+      },
+      "properties": {
+        "name": "Saboroso",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2567834,
+          -25.4347018
+        ]
+      },
+      "properties": {
+        "name": "Prestinaria - Mercado Municipal",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2567333,
+          -25.4348005
+        ]
+      },
+      "properties": {
+        "name": "Ohana",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2570549,
+          -25.4350416
+        ]
+      },
+      "properties": {
+        "name": "Café do Mercado",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2685538,
+          -25.4364615
+        ]
+      },
+      "properties": {
+        "name": "Mais1 Café",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2691923,
+          -25.4321694
+        ]
+      },
+      "properties": {
+        "name": "Sakai",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2691756,
+          -25.4293235
+        ]
+      },
+      "properties": {
+        "name": "Jeito Mineiro",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2689967,
+          -25.4398299
+        ]
+      },
+      "properties": {
+        "name": "Bloco CM",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2613421,
+          -25.4366842
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.255322,
+          -25.4388362
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2609102,
+          -25.4213598
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2620084,
+          -25.4349849
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2430047,
+          -25.4514631
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2635016,
+          -25.4164056
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2477381,
+          -25.4172064
+        ]
+      },
+      "properties": {
+        "name": "Sheik Ali",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2710467,
+          -25.4267428
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2377419,
+          -25.4338669
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Camarão Dourado",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2436122,
+          -25.4313552
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2376379,
+          -25.4326408
+        ]
+      },
+      "properties": {
+        "name": "Limoeiro",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2649471,
+          -25.434715
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2396284,
+          -25.4445257
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2424145,
+          -25.4445318
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2455432,
+          -25.4460599
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2449056,
+          -25.4460047
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2480019,
+          -25.4453115
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2463467,
+          -25.4467756
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2457428,
+          -25.4526534
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2551802,
+          -25.4105749
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2678996,
+          -25.4349076
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2632853,
+          -25.4281265
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2644406,
+          -25.4286269
+        ]
+      },
+      "properties": {
+        "name": "Guaíra Park",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2610072,
+          -25.4329594
+        ]
+      },
+      "properties": {
+        "name": "Parkit",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2722223,
+          -25.4386746
+        ]
+      },
+      "properties": {
+        "name": "Estacionamento Ebenezer Park",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2670616,
+          -25.4357677
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.260443,
+          -25.4270619
+        ]
+      },
+      "properties": {
+        "name": "Estacionamento Clarissa",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.255522,
+          -25.4364097
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.255878,
+          -25.4361565
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2351091,
+          -25.4494349
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Universitário Centro Politécnico",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2574702,
+          -25.4479026
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2392277,
+          -25.438693
+        ]
+      },
+      "properties": {
+        "name": "Estapar",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2334013,
+          -25.4473738
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2702934,
+          -25.4221989
+        ]
+      },
+      "properties": {
+        "name": "Auto Park",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2698427,
+          -25.4208238
+        ]
+      },
+      "properties": {
+        "name": "Araupark",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2694489,
+          -25.4189778
+        ]
+      },
+      "properties": {
+        "name": "Pássaro",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2675649,
+          -25.4185596
+        ]
+      },
+      "properties": {
+        "name": "Estacionamento Fontana",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2576398,
+          -25.4178051
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2714409,
+          -25.4315915
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2726185,
+          -25.4306785
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2731136,
+          -25.4258409
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2694104,
+          -25.4235655
+        ]
+      },
+      "properties": {
+        "name": "Neopark",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2572095,
+          -25.4285974
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2571895,
+          -25.4291506
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2324639,
+          -25.4415673
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.250507,
+          -25.4526978
+        ]
+      },
+      "properties": {
+        "name": "E 12A",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2511593,
+          -25.4527391
+        ]
+      },
+      "properties": {
+        "name": "E 11",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2521502,
+          -25.4512562
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2523368,
+          -25.4492895
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2523224,
+          -25.4497936
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2514388,
+          -25.449739
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2656258,
+          -25.4213792
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2671708,
+          -25.4159241
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2691384,
+          -25.4217047
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2684985,
+          -25.4218198
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2577601,
+          -25.4332777
+        ]
+      },
+      "properties": {
+        "name": "Dúnia",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2322425,
+          -25.4476504
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2481762,
+          -25.4423397
+        ]
+      },
+      "properties": {
+        "name": "Lovinha",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2562698,
+          -25.4353368
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2558262,
+          -25.4349238
+        ]
+      },
+      "properties": {
+        "name": "Cumbuca du Chef",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2489396,
+          -25.4082201
+        ]
+      },
+      "properties": {
+        "name": "Di Frango",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2673502,
+          -25.4366267
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2618965,
+          -25.4437694
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2458161,
+          -25.4355951
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2435562,
+          -25.4386064
+        ]
+      },
+      "properties": {
+        "name": "Princesa dos Campos",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2353596,
+          -25.4351116
+        ]
+      },
+      "properties": {
+        "name": "Kentaki",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2376718,
+          -25.4460219
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Universitário Jardim Botânico",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2557217,
+          -25.410201
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2637694,
+          -25.4490556
+        ]
+      },
+      "properties": {
+        "name": "AW Saúde",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2646108,
+          -25.4250614
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2689798,
+          -25.4173027
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2585478,
+          -25.43508
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2554551,
+          -25.4330197
+        ]
+      },
+      "properties": {
+        "name": "Sant'Ana",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2577221,
+          -25.4348295
+        ]
+      },
+      "properties": {
+        "name": "Café Municipal",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2638145,
+          -25.4344001
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2416258,
+          -25.4238677
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2404937,
+          -25.4279532
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.237627,
+          -25.4269713
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2396765,
+          -25.4280992
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.250089,
+          -25.4304452
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2482598,
+          -25.425742
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2470292,
+          -25.4270194
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Ladrilho's",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2622874,
+          -25.4326357
+        ]
+      },
+      "properties": {
+        "name": "Estacionamento Tibagi",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2527729,
+          -25.4396164
+        ]
+      },
+      "properties": {
+        "name": "Campneus",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2431565,
+          -25.4338094
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2448822,
+          -25.4336783
+        ]
+      },
+      "properties": {
+        "name": "Supermercado Condor",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2681297,
+          -25.4422747
+        ]
+      },
+      "properties": {
+        "name": "Slaviero",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2665394,
+          -25.443166
+        ]
+      },
+      "properties": {
+        "name": "Hobby Pesca",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.267488,
+          -25.4423195
+        ]
+      },
+      "properties": {
+        "name": "Slaviero",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2712237,
+          -25.4385565
+        ]
+      },
+      "properties": {
+        "name": "Estacionamento Nossa Senhora de Fátima",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2714659,
+          -25.4377124
+        ]
+      },
+      "properties": {
+        "name": "Estacionamento Bom Retiro",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2632546,
+          -25.4304228
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2705684,
+          -25.4245306
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.241146,
+          -25.4195762
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2406733,
+          -25.4196152
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2408937,
+          -25.4195026
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2412026,
+          -25.4202631
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2417725,
+          -25.4183722
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2396507,
+          -25.418778
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2614331,
+          -25.4344627
+        ]
+      },
+      "properties": {
+        "name": "Porto Hills",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2401087,
+          -25.4189974
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.241175,
+          -25.4184761
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2399017,
+          -25.43016
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2431789,
+          -25.4173275
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2430556,
+          -25.4175888
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2402185,
+          -25.4201758
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2409641,
+          -25.4191278
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2389485,
+          -25.4202471
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2392751,
+          -25.4203526
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.239494,
+          -25.4202765
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2393019,
+          -25.4202014
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2443307,
+          -25.4186398
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2728656,
+          -25.4274128
+        ]
+      },
+      "properties": {
+        "name": "Farnel",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2724941,
+          -25.4271349
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2729953,
+          -25.4270118
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2712617,
+          -25.4282572
+        ]
+      },
+      "properties": {
+        "name": "Mesa Solidária (anexo)",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2423943,
+          -25.45023
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2381841,
+          -25.4366311
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Raveli",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2732257,
+          -25.4263422
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2627302,
+          -25.4273739
+        ]
+      },
+      "properties": {
+        "name": "City Park",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2629769,
+          -25.427143
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2607872,
+          -25.4271834
+        ]
+      },
+      "properties": {
+        "name": "Star Park",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2726041,
+          -25.4287103
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.262322,
+          -25.4260642
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2598837,
+          -25.4136976
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2693787,
+          -25.4257601
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2720632,
+          -25.4229095
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2722345,
+          -25.4224221
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2723298,
+          -25.422649
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2700922,
+          -25.4257281
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2702482,
+          -25.4257434
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2476446,
+          -25.429711
+        ]
+      },
+      "properties": {
+        "name": "Tiwanaku Bar",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2553547,
+          -25.4270699
+        ]
+      },
+      "properties": {
+        "name": "Costelão Alto da XV",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2454536,
+          -25.4457538
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2679981,
+          -25.4341189
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2354821,
+          -25.4274263
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Recanto Grill",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2667853,
+          -25.4347108
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2640769,
+          -25.4333684
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2507306,
+          -25.4336691
+        ]
+      },
+      "properties": {
+        "name": "Bar Giraldi - Caldinho de Piranha",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2528798,
+          -25.4334838
+        ]
+      },
+      "properties": {
+        "name": "Mara",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.233685,
+          -25.4337907
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2331092,
+          -25.4335303
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2340486,
+          -25.434792
+        ]
+      },
+      "properties": {
+        "name": "Auto Shopping Curitiba",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2537047,
+          -25.4485802
+        ]
+      },
+      "properties": {
+        "name": "PUC Estacionamento A",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2545904,
+          -25.4491934
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2625015,
+          -25.4255514
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2636841,
+          -25.4268633
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2538885,
+          -25.4226842
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2572108,
+          -25.425389
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2605803,
+          -25.4414278
+        ]
+      },
+      "properties": {
+        "name": "CAVO",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2468733,
+          -25.4230776
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2487809,
+          -25.4225538
+        ]
+      },
+      "properties": {
+        "name": "Wit Bar",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2512307,
+          -25.4185969
+        ]
+      },
+      "properties": {
+        "name": "Espetinho Daniel e Xixo",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2513742,
+          -25.4185415
+        ]
+      },
+      "properties": {
+        "name": "Bar do Juca",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2541049,
+          -25.4339377
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2559114,
+          -25.4341223
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2483465,
+          -25.4305789
+        ]
+      },
+      "properties": {
+        "name": "Morgenau",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2486945,
+          -25.4280769
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2481731,
+          -25.4280429
+        ]
+      },
+      "properties": {
+        "name": "Abaré Express",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2646713,
+          -25.4392293
+        ]
+      },
+      "properties": {
+        "name": "Habib's",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2645916,
+          -25.4394008
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2514177,
+          -25.4342985
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2692941,
+          -25.4381561
+        ]
+      },
+      "properties": {
+        "name": "Elos",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2530813,
+          -25.4341667
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2598729,
+          -25.4411118
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2740624,
+          -25.4278264
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2704253,
+          -25.4279171
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2700215,
+          -25.4279344
+        ]
+      },
+      "properties": {
+        "name": "Jokers",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2700085,
+          -25.4280652
+        ]
+      },
+      "properties": {
+        "name": "Restaurante São Francisco",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2697874,
+          -25.4279485
+        ]
+      },
+      "properties": {
+        "name": "Nonna Giovanna",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2701973,
+          -25.4278306
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2700913,
+          -25.4273994
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2742377,
+          -25.4290687
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2730398,
+          -25.4293897
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.273149,
+          -25.4299274
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2663837,
+          -25.4389071
+        ]
+      },
+      "properties": {
+        "name": "Festval Silva Jardim",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2319156,
+          -25.4284619
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2524068,
+          -25.4318589
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2523652,
+          -25.4311352
+        ]
+      },
+      "properties": {
+        "name": "Assados NoFogo",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2525028,
+          -25.4311627
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2467518,
+          -25.4529296
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2463183,
+          -25.4523228
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2520125,
+          -25.432863
+        ]
+      },
+      "properties": {
+        "name": "South Beer",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2530818,
+          -25.4334432
+        ]
+      },
+      "properties": {
+        "name": "Anthurium Buffet Hamburgueria",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2519585,
+          -25.4326551
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2605168,
+          -25.4338039
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2603838,
+          -25.4337473
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2609482,
+          -25.4346235
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2616517,
+          -25.4418378
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2637227,
+          -25.4430786
+        ]
+      },
+      "properties": {
+        "name": "Casa do Produtor",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2524232,
+          -25.4238597
+        ]
+      },
+      "properties": {
+        "name": "Belissari",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2389245,
+          -25.4468768
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2386781,
+          -25.4448936
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2386048,
+          -25.4454986
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2491693,
+          -25.4419874
+        ]
+      },
+      "properties": {
+        "name": "Polome",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2383186,
+          -25.4457773
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2378808,
+          -25.4454178
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2382542,
+          -25.4464004
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2393081,
+          -25.4511236
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2453361,
+          -25.4513972
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2608733,
+          -25.4434903
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2605872,
+          -25.4366576
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2476749,
+          -25.4239339
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2482084,
+          -25.4270842
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.247518,
+          -25.4274301
+        ]
+      },
+      "properties": {
+        "name": "S.A Casa do Sushi",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2498692,
+          -25.4306038
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2497391,
+          -25.4297704
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2376704,
+          -25.4330479
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2397991,
+          -25.4340685
+        ]
+      },
+      "properties": {
+        "name": "Sabor na Brasa",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2539237,
+          -25.4353
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2636971,
+          -25.4387925
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2634016,
+          -25.4387952
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2543189,
+          -25.4129723
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2542617,
+          -25.4305209
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2584183,
+          -25.4123532
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2420137,
+          -25.4245136
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Madero",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2547352,
+          -25.4096117
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2544509,
+          -25.409665
+        ]
+      },
+      "properties": {
+        "name": "Kharina",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.250602,
+          -25.4084706
+        ]
+      },
+      "properties": {
+        "name": "Munhoz da Rocha",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2367827,
+          -25.427319
+        ]
+      },
+      "properties": {
+        "name": "Leve Sabor",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2469501,
+          -25.4263172
+        ]
+      },
+      "properties": {
+        "name": "Kaffe-Kantate Torrefação Artesanal de Cafés Especiais",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2465488,
+          -25.4258022
+        ]
+      },
+      "properties": {
+        "name": "En Torno Cerâmica",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2441707,
+          -25.4448351
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2276899,
+          -25.4367127
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2344975,
+          -25.4429258
+        ]
+      },
+      "properties": {
+        "name": "SmartPark Jardim Botânico",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2506786,
+          -25.4497144
+        ]
+      },
+      "properties": {
+        "name": "E 04",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2489878,
+          -25.450338
+        ]
+      },
+      "properties": {
+        "name": "E 15",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2506365,
+          -25.4493048
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2518545,
+          -25.4487078
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2501489,
+          -25.4504203
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2500936,
+          -25.4510091
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2503684,
+          -25.4517523
+        ]
+      },
+      "properties": {
+        "name": "Professores",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2533236,
+          -25.4534505
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2535503,
+          -25.4504371
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2449141,
+          -25.445726
+        ]
+      },
+      "properties": {
+        "name": "Restaurante Sistema FIEP",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2444921,
+          -25.4458297
+        ]
+      },
+      "properties": {
+        "name": "Cafeteria Sistema FIEP",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2434219,
+          -25.4469016
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2517544,
+          -25.4492628
+        ]
+      },
+      "properties": {
+        "name": "Professores",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2473618,
+          -25.4516285
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.248329,
+          -25.4420804
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2485351,
+          -25.4425852
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2729514,
+          -25.4253449
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2689595,
+          -25.4232953
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2323302,
+          -25.4469997
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2346858,
+          -25.4491018
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2370341,
+          -25.4471819
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2406902,
+          -25.445916
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2385651,
+          -25.4465795
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.237861,
+          -25.4478791
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2375098,
+          -25.4455376
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2375259,
+          -25.4456497
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2384474,
+          -25.4462529
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2355838,
+          -25.4455794
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2359903,
+          -25.4457361
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2644181,
+          -25.4375555
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2617034,
+          -25.4317299
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2509752,
+          -25.4326949
+        ]
+      },
+      "properties": {
+        "name": "Herval",
+        "type": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2498377,
+          -25.4323281
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2715646,
+          -25.4410463
+        ]
+      },
+      "properties": {
+        "name": "Bar do Didi Jardins",
+        "type": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2379601,
+          -25.4427157
+        ]
+      },
+      "properties": {
+        "name": "Senac Café-Escola",
+        "type": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2504283,
+          -25.4479921
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2533802,
+          -25.4534698
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2512983,
+          -25.4305034
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2500108,
+          -25.4371406
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.24113,
+          -25.4423214
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2581526,
+          -25.4363464
+        ]
+      },
+      "properties": {
+        "name": "Sem nome",
+        "type": "parking"
+      }
+    }
+  ]
+}
