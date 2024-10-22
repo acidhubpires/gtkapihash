@@ -59,8 +59,8 @@ setup.cfg
 *.DS_Store
 
 # Docker-related (if using Docker locally)
-docker-compose.yml
-Dockerfile
+#docker-compose.yml
+#Dockerfile
 
 # Vercel-related
 .vercel/
