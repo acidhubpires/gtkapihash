@@ -1,8 +1,7 @@
-jinja2
-python-multipart
 fastapi
 geopandas
 shapely
+python-multipart
+jinja2
 uvicorn
 pydantic
-
