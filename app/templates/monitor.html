@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monitoramento GeoToken</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+    <h3>Monitoramento em Tempo Real</h3>
+    <label for="user-select">Selecione um usuário:</label>
+    <select id="user-select">
+        <option value="all">Todos</option>
+    </select>
+    <div id="map" style="height: 80vh; width: 100%;"></div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+    <script>
+        const map = L.map('map').setView([-23.5505, -46.6333], 12);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19 }).addTo(map);
+
+        let markerCluster = L.markerClusterGroup();
+        let userMarkers = {};
+        const trackingDataUrl = "https://b576-189-4-50-133.ngrok-free.app/tracking-data"; 
+
+        async function loadTrackingData() {
+            try {
+                console.log("Iniciando o carregamento dos dados de rastreamento...");
+                const response = await fetch(trackingDataUrl);
+                const data = await response.json();
+                console.log("Dados de rastreamento recebidos:", data);
+
+                updateUserSelectOptions(data); 
+                renderDataOnMap(data);
+            } catch (error) {
+                console.error("Erro ao carregar dados de rastreamento:", error);
+            }
+        }
+
+        function updateUserSelectOptions(data) {
+            const userSelect = document.getElementById("user-select");
+            const usernames = Array.from(new Set(data.map(entry => entry.username).filter(username => username !== undefined)));
+
+            console.log("Lista de usernames extraídos:", usernames);  // Log adicionado
+
+            userSelect.innerHTML = '<option value="all">Todos</option>';
+            usernames.forEach(username => {
+                const option = document.createElement("option");
+                option.value = username;
+                option.textContent = username;
+                userSelect.appendChild(option);
+            });
+
+            userSelect.disabled = usernames.length === 0;
+            console.log("Opções de usuário atualizadas e menu habilitado:", usernames);
+        }
+
+        function renderDataOnMap(data) {
+            const selectedUser = document.getElementById("user-select").value;
+            console.log("Renderizando dados para o usuário selecionado:", selectedUser);
+
+            Object.values(userMarkers).forEach(marker => map.removeLayer(marker));
+            markerCluster.clearLayers();
+
+            data.forEach(entry => {
+                const { user_position, erbs, username, timestamp } = entry;
+
+                if ((selectedUser === "all" || selectedUser === username) && user_position) {
+                    updateUserLocation(user_position, username || "Indefinido", timestamp);
+                    addERBsToMap(erbs || []);
+                }
+            });
+        }
+
+        function updateUserLocation(userPosition, username, timestamp) {
+            if (!userMarkers[username]) {
+                userMarkers[username] = L.marker(userPosition)
+                    .bindPopup(`<b>Usuário:</b> ${username || "Indefinido"}<br><b>Posição:</b> [${userPosition[0].toFixed(5)}, ${userPosition[1].toFixed(5)}]<br><b>Horário:</b> ${timestamp || "Indisponível"}`)
+                    .addTo(map);
+            } else {
+                userMarkers[username].setLatLng(userPosition)
+                    .bindPopup(`<b>Usuário:</b> ${username || "Indefinido"}<br><b>Posição:</b> [${userPosition[0].toFixed(5)}, ${userPosition[1].toFixed(5)}]<br><b>Horário:</b> ${timestamp || "Indisponível"}`);
+            }
+
+            map.setView(userPosition, 12);
+            console.log("Posição atualizada para o usuário:", username, userPosition);
+        }
+
+        function addERBsToMap(nearbyERBs) {
+            nearbyERBs.forEach(erb => {
+                const erbMarker = L.marker(erb.coordenadas)
+                    .bindPopup(`ERB: ${erb.nome}`);
+                markerCluster.addLayer(erbMarker);
+            });
+
+            map.addLayer(markerCluster);
+            console.log("ERBs adicionadas ao mapa:", nearbyERBs);
+        }
+
+        document.getElementById("user-select").addEventListener("change", loadTrackingData);
+        setInterval(loadTrackingData, 30000);
+        loadTrackingData();
+    </script>
+</body>
+</html>

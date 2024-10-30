@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monitoramento GeoToken</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+    <h3>Monitoramento em Tempo Real</h3>
+    <div id="map" style="height: 80vh; width: 100%;"></div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        const map = L.map('map').setView([-23.5505, -46.6333], 12);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19 }).addTo(map);
+
+        let lastUpdateTime = null;
+
+        async function loadTrackingData() {
+            try {
+                const response = await fetch('/tracking-data');
+                const data = await response.json();
+        
+                // Checa se os dados são novos comparando o timestamp
+                const latestTimestamp = data.length ? data[data.length - 1].timestamp : null;
+        
+                if (latestTimestamp && latestTimestamp !== lastUpdateTime) {
+                    lastUpdateTime = latestTimestamp; // Atualiza o tempo de última atualização
+        
+                    // Renderiza os dados no mapa
+                    data.forEach(entry => {
+                        const { user_position, erbs, username, timestamp } = entry;
+        
+                        // Marcar a posição do usuário e as ERBs no mapa
+                        const userMarker = L.marker(user_position).addTo(map)
+                            .bindPopup(`<b>Usuário:</b> ${username}<br><b>Timestamp:</b> ${timestamp}`);
+        
+                        erbs.forEach(erb => {
+                            L.marker(erb.coordenadas, { icon: createERBIcon() })
+                                .addTo(map)
+                                .bindPopup(`ERB: ${erb.nome}`);
+                        });
+                    });
+                }
+            } catch (error) {
+                console.error("Erro ao carregar dados de rastreamento:", error);
+            }
+        }
+        
+        // Executa a função a cada 30 segundos ou ajuste conforme necessário
+        setInterval(loadTrackingData, 30000);
+        
+    </script>
+</body>
+</html>
